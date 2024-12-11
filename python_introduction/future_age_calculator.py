@@ -1,0 +1,5 @@
+age = input("how old are you?")
+
+age_in_2050 = age + 25
+
+print(f"in 2025 you will be {age_in_2050} years old.")
