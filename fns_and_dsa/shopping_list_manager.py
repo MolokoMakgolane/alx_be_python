@@ -28,7 +28,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-Note for Students:
 
-You are responsible for completing the main() function with the appropriate logic to handle adding, removing, and displaying items in the shopping_list.
-This task introduces you to working with lists in a practical scenario, enhancing your understanding of how dynamic data structures can be manipulated and utilized in Python programs.
